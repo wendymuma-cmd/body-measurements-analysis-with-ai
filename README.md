@@ -57,8 +57,8 @@ This dataset was analyzed using AWS PartyRock's Analyze Data feature to identify
 ### Correlation Analysis
 ![Correlation Analysis](Body%20measurements%20analysis.png)
 
-### Statistical Summary
-![Statistical Summary](Body%20measurements%20analysis.png)
+## Demo Video
+🎥 [Watch Demo](Body%20measurements%20analysis%20demo.mp4)
 
 
 ## Skills Demonstrated
